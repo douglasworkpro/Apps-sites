@@ -1,0 +1,6 @@
+{
+  "name": "DotMail",
+  "description": "Gerador de variações de e-mail com pontos para Gmail, incluindo controle de uso, busca, filtros e backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
